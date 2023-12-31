@@ -20,9 +20,18 @@ the content derived from first file using write().
 ### Step 6: 
 End the program
 ## PROGRAM:
-
+```
+#Developed by: Shashank R
+#Register number: 212223230205
+f=open("ex88.txt","r")
+content=f.read()
+f1=open("myfile.txt","w+")
+f1.write(content)
+print("The content that is been copied to the new file is:",content)
+```
 
 ### OUTPUT:
+![image](https://github.com/Shashank2006offl/copy-file/assets/147140026/557c8b03-c59a-4f5d-b0cc-c4539d7e8027)
 
 
 
