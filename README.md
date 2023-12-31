@@ -19,6 +19,8 @@ Now open the new uncreated or an empty file using a different file object, by "w
 the content derived from first file using write().
 ### Step 6: 
 End the program
+
+
 ## PROGRAM:
 ```
 #Developed by: Shashank R
